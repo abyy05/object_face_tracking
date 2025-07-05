@@ -19,7 +19,7 @@ Welcome to **Drone Surveillance Software*, a Python-based real-time vision assis
 
 ## 🧰 Tech Stack
 
-- Python 3.x  
+- Python   
 - OpenCV (cv2)  
 - pyttsx3 (Text-to-Speech)  
 - SpeechRecognition + Microphone  
