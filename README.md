@@ -59,9 +59,9 @@ Voice: "Face tracking"
 
 ---
 
-## 📜 License
+## Contact me
 
-This project is licensed under the MIT License.
+
 
 ---
 
