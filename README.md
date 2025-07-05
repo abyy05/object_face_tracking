@@ -55,7 +55,7 @@ Voice: "Face tracking"
 
 ## 📌 Author
 
-- **Your Name** – [GitHub Profile](https://github.com/yourusername)
+- **Abhik Halder** – [GitHub Profile](https://github.com/abyy05)
 
 ---
 
