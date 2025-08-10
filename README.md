@@ -6,18 +6,18 @@ Welcome to **Drone Surveillance Software*, a Python-based real-time vision assis
 
 ---
 
-## 🔍 Features
+##  Features
 
-- 🎤 **Voice-Controlled Interface** using Google Speech Recognition & pyttsx3  
-- 🧑‍🦰 **Face Tracking** with Haar Cascade  
-- 📦 **Object Detection** using SSD MobileNet (COCO model)  
-- 📸 **Live Camera Streaming**  
-- 🛑 **Real-time stopping & switching** between modules  
-- 🧠 **Threaded execution** to keep UI responsive  
+-  **Voice-Controlled Interface** using Google Speech Recognition & pyttsx3  
+-  **Face Tracking** with Haar Cascade  
+-  **Object Detection** using SSD MobileNet (COCO model)  
+-  **Live Camera Streaming**  
+-  **Real-time stopping & switching** between modules  
+-  **Threaded execution** to keep UI responsive  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python   
 - OpenCV (cv2)  
@@ -28,7 +28,7 @@ Welcome to **Drone Surveillance Software*, a Python-based real-time vision assis
 
 ---
 
-## 💡 Lessons Learned
+## Lessons Learned
 
 - Multithreading in Python for responsive interaction  
 - Real-time video feed handling  
@@ -38,7 +38,7 @@ Welcome to **Drone Surveillance Software*, a Python-based real-time vision assis
 
 ---
 
-## 🎯 Example Use Case
+##  Example Use Case
 
 ```
 Voice: "Object tracking"
@@ -53,18 +53,7 @@ Voice: "Face tracking"
 
 
 
-## 📌 Author
-
-- **Abhik Halder** – [GitHub Profile](https://github.com/abyy05)
-
----
-
-## Contact Me
-
-For support and contact, email halderabhik77@gmail.com.
 
 
-
----
 
 
